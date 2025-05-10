@@ -1,0 +1,30 @@
+{
+    "title": "Because We Develop - Dice so Nice Addition",
+    "description": "Because We Develop - Dice so Nice skins for Foundry VTT.",
+    "version": "1.0.0",
+    "scripts": [
+        "scripts/fvtt-becauseWeDevelop.js"
+    ],
+    "url": "https://github.com/clarissa-au/fvtt-because-we-develop",
+    "manifest": "https://raw.githubusercontent.com/clarissa-au/fvtt-because-we-develop/main/module.json",
+    "download": "https://raw.githubusercontent.com/clarissa-au/fvtt-because-we-develop/main/becauseWeDevelop.zip",
+    "id": "fvtt-becauseWeDevelop",
+    "authors": [
+        {
+            "name": "Clarissa Au",
+            "flags": {}
+        }
+    ],
+    "relationships": {
+        "requires": [
+            {
+                "id": "dice-so-nice",
+                "type": "module"
+            }
+        ]
+    },
+    "compatibility": {
+        "minimum": "12",
+        "verified": "12"
+    }
+}

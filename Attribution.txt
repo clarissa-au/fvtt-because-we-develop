@@ -1,0 +1,29 @@
+Because We Develop:
+
+- Font: 
+  - Because We Had To, by Red Hat @ https://github.com/RedHatOfficial/bwht-fonts/tree/master
+
+Because We Perceive:
+
+- Images:
+  - Hibiscus free icon by Icongeek26 @ https://www.flaticon.com/free-icon/hibiscus_5130767
+  - Flower free icon by Aliegns Design on Flaticon @ https://www.flaticon.com/free-icon/flower_17518852
+  - Flower free icon by Toonsteb on Flaticon @ https://www.flaticon.com/free-icon/flower_5025197
+  - Peony free icon by istar_design_bureau on Flaticon @ https://www.flaticon.com/free-icon/peony_15852511
+  - Plumeria free icon by jocularityart on Flaticon @ https://www.flaticon.com/free-icon/plumeria_7091477
+  - Nature free icon by Xinh Studio on Flaticon @ https://www.flaticon.com/free-icon/nature_11047022
+  - Nature free icon by Xinh Studio on Flaticon @ https://www.flaticon.com/free-icon/nature_11047212
+  - Nature free icon by Xinh Studio on Flaticon @ https://www.flaticon.com/free-icon/nature_11047270
+  - Lavender free icon by istar_design_bureau on Flaticon @ https://www.flaticon.com/free-icon/lavender_15852529
+  - Anemone free icon by istar_design_bureau on Flaticon @ https://www.flaticon.com/free-icon/anemone_15852726
+  - Cherry Blossom free icon by istar_design_bureau on Flaticon @ https://www.flaticon.com/free-icon/anemone_15853122
+  - Dandelion free icon by istar_design_bureau on Flaticon @ https://www.flaticon.com/free-icon/dandelion_15853328
+
+Because We Exist:
+
+- Images:
+  - sourced from vector_vault as linked and preserved @ https://web.archive.org/web/20220818200058/https://vectorvault.webflow.io/ and https://web.archive.org/web/20240927023534/http://www.vector-vault.org/
+
+Because We Feel:
+
+Because We Transform:
