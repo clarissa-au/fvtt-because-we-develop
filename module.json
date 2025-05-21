@@ -1,7 +1,7 @@
 {
     "title": "Because We Develop - Dice so Nice Addition",
     "description": "Because We Develop - Dice so Nice skins for Foundry VTT.",
-    "version": "v0.1.1",
+    "version": "v0.1.2",
     "scripts": [
         "scripts/fvtt-becauseWeDevelop.js"
     ],
